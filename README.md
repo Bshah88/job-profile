@@ -1,2 +1,2 @@
-# job-profile
+# Job-Profile
 Bhargav Shah - Project Manager/MERN Stack Developer
